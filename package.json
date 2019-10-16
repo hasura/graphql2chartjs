@@ -1,6 +1,6 @@
 {
   "name": "graphql2chartjs",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "launch": "yarn compile && yarn bundle && yarn publish"
   },
   "author": "Hasura",
-  "repository": "hasura/graphql-engine",
+  "repository": "hasura/graphql2chartjs",
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
