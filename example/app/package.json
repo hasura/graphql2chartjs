@@ -6,7 +6,7 @@
     "apollo-boost": "^0.1.28",
     "apollo-link-ws": "^1.0.14",
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "graphql": "^14.1.1",
     "graphql2chartjs": "^0.2.1",
     "react": "^16.8.3",
